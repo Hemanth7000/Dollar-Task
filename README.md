@@ -4,6 +4,8 @@ This project is a fully containerized MEAN Stack CRUD Application deployed on AW
 
 ## Project Structure
 
+```bash
+
 crud-dd-task-mean-app/
 │
 ├── backend/                         # Node.js + Express API
@@ -18,6 +20,7 @@ crud-dd-task-mean-app/
 ├── docker-compose.yml               # Multi-service deployment
 └── README.md
 
+```
 
 ## 1. Docker Setup
 
